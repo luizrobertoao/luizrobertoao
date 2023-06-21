@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Luiz Roberto Oliveira.
-- 👀 I’m interested in learning software development skills.
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate on JAVA projects.
-- 📫 How to reach me: luizrobertoao29@gmail.com
+Hi, I’m Luiz Roberto Oliveira.
+
+Junior Developer focused on improving my skills in order to better help clients, and generate a positive impact on users' lives through technology. I'm a great team worker and skilled in many technologies like Java, Spring boot, SQL as long as Front end technologies.
+
+I'm always looking for more knowledge to become a better developer.
+
+-📫 How to reach me: luizrobertoao29@gmail.com
+
+-✅ www.linkedin.com/in/luizrobertoao/
+
 
 <!---
 luizrobertoao/luizrobertoao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
