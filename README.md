@@ -4,9 +4,11 @@ Junior Developer focused on improving my skills in order to better help clients,
 
 I'm always looking for more knowledge to become a better developer.
 
--📫 How to reach me: luizrobertoao29@gmail.com
+How to reach me:
 
--✅ www.linkedin.com/in/luizrobertoao/
+- 📫 luizrobertoao29@gmail.com
+
+- ✅ www.linkedin.com/in/luizrobertoao/
 
 
 <!---
